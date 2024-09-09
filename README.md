@@ -61,6 +61,8 @@ Durante las sesiones trabajaremos con los siguientes temas:
 - Curso de Git - GitHub para aportar a proyectos: [Curso de GIT y GITHUB DESDE CERO Para Aportar a Proyectos](https://www.youtube.com/watch?v=niPExbK8lSw&t=140s)
 - Ejercitar comandos de Git: [Learn Git Branching](https://learngitbranching.js.org/?locale=es_AR)
 - Conoce todo sobre Patrones de Diseño: [Refactoring Guru](https://refactoring.guru/design-patterns)
+- Aprende PyQt6: [Python Guis](https://www.pythonguis.com/pyqt6/)
+- Qt Designer: [Python Guis](https://www.pythonguis.com/installation/install-qt-designer-standalone/)
 
 
 ¡Nos vemos en la ayudantía! 👩‍💻👨‍💻
